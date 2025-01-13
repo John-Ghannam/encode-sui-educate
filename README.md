@@ -15,7 +15,7 @@ An educational series about the Sui ecosystem, taking place from February throug
 
 - [Sui Developer Documentation](https://docs.sui.io/build)
 - [Sui GitHub](https://github.com/MystenLabs/sui)
-- [Sui Framework Documentaton](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework/docs)
+- [Sui Framework Documentation](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework/docs)
 - [Sui Typescript SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript)
 - [Sui Rust SDK](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk)
 - [Sui Explorer](https://explorer.sui.io/)
@@ -35,3 +35,11 @@ If you want to join Sui's online communities, you can join via following links:
    Yes. That is the original intention of this repo, to allow content creators and educational platforms to use and expand on the material within this repo to create different forms of media or technical content about Sui or the Sui Move language.
 
    This repo is licensed under the Creative Common License; [CC-BY-SA-4.0 license](./LICENSE), to be specific. This allows anyone to remix, transform, build or share the content in this repo for whatever purposes, but any content based on this repo also needs to be licensed under the same Creative Common License, and give an attribution to the source.
+
+## Scaffolding
+
+1. In a new Terminal type `sui move new car` to create the project
+
+## Continue Tutorial
+
+[Here is the video link](https://youtu.be/0wTpVQb09qs?si=xBaoDAJYs9k8WjOr&t=971) to pick up where you left off.
