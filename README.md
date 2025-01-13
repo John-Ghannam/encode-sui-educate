@@ -43,3 +43,4 @@ If you want to join Sui's online communities, you can join via following links:
 ## Continue Tutorial
 
 [Here is the video link](https://youtu.be/0wTpVQb09qs?si=xBaoDAJYs9k8WjOr&t=971) to pick up where you left off.
+Continue with this file: `C:\Repos\Web3\SUI\encode-sui-educate\lesson-2-workshop\car\sources\car.move`
